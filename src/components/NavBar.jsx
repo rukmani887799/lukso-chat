@@ -6,7 +6,7 @@ export function NavBar( props ){
     return (
         <Navbar bg="dark" variant="blue">
             <Navbar.Brand href="#home"> 
-                Lusko Chat App 
+                Lukso Chat App 
             </Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end">
