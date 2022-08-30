@@ -1,5 +1,8 @@
 # Lukso-Chat
 ## Social & DAOs - Chat DApp
+
+## **PLEASE USE THE METAMASK**
+
 ## Inspiration
 
 —In this era of ubiquitous social media and messaging applications, users are becoming increasingly aware of the data privacy issues associated with such apps. Major messaging applications are moving towards end-to-end encryption (E2EE) to give their users the privacy they are demanding.
